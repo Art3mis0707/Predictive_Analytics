@@ -45,7 +45,7 @@ Imported Libraries : Numpy (For array creation),
                      
 Other necessary documentation is provided next to the code
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Fake News Prediction
 
@@ -60,3 +60,16 @@ Imported Libraries : Numpy (For array creation),
                      
 Other necessary documentation is provided next to the code
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Loan Status Prediction
+
+System to predict whether a loan will be approved or not.
+
+The system is a supervised model which used support vector machines to make predictions.
+
+Imported Libraries : Numpy (For array creation),
+                     Pandas (For converting the dataset into a pandas dataframe),
+                     Scikitlearn (For all the tools for A/B testing, SVM and Accuracy Score)
+                     
+Other necessary documentation is provided next to the code
