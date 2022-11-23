@@ -87,3 +87,17 @@ Imported Libraries : Numpy (For array creation),
                      Scikitlearn (For all the tools for A/B testing, Random Forest Classifier and Accuracy Score)
                      
 Other necessary documentation is provided next to the code
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Gold Price Prediction
+
+System to predict whether the price of gold.
+
+The system is a supervised model which used Random Forest Classifier to make predictions.
+
+Imported Libraries : Numpy (For array creation),
+                     Pandas (For converting the dataset into a pandas dataframe),
+                     Scikitlearn (For all the tools for A/B testing, Random Forest Classifier and Accuracy Score)
+                     
+Other necessary documentation is provided next to the code
